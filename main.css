@@ -35,11 +35,8 @@ body {
 .earth {
   position: absolute;
   top: 70%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   background-image: url("https://i.pinimg.com/originals/ce/51/93/ce519395e6cec83d9953c4e6e3362386.png");
   border-radius: 50%;
   background-size: cover;
